@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack (WordPress) developer, Serial entrepreneur with strong leadership, innovation and strategic skill with knowledge of Strategy on Digital Marketing. Over 10 years of experience in the tech industry. I'm passionate about sharing knowledge, documentation, web engineering, Wordpress, communities, and FOSS.
+I am a software developer with a love of clean code and responsive design. I work primarily in JavaScript (Vanilla JS, Node JS, ReactJS, and Angular JS). Likewise, I have experience ranging from the front-end (html5, CSS3, and JavaScript) to backend (PHP, Node JS, MySQL, and Firebase), full-stack, and cloud computing services (AWS and GCP), Serial entrepreneur with strong leadership, innovation and strategic skill. Over 10 years of experience in the tech industry. I'm passionate about sharing knowledge, documentation, web engineering, and communities.
 
 I create technical content on my [Blog](https://josecaicedo.co/) && [YouTube](https://www.youtube.com/channel/UCX5w6KTXJAv219CrbmXb5_Q), [speak](https://josecaicedo.co/talks) at some conferences/meetups and build technical communities.
 <!--
