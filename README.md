@@ -4,11 +4,11 @@
 
 I'm José Caicedo, a passionate software developer and technology enthusiast. With over a decade of experience in the ever-evolving tech industry, I'm excited about crafting elegant solutions for complex problems.
 
-I embarked on my tech journey with a strong foundation in mathematics and computer science, earning my Bachelor's degree from the University of London. This academic background has not only honed my problem-solving skills but also instilled a deep appreciation for the elegance of code.
+I embarked on my tech journey with a strong mathematics and computer science foundation. This academic background has honed my problem-solving skills and instilled a deep appreciation for the elegance of code.
 
-Over the years, I've had the privilege of working in diverse roles, ranging from Cloud Architecture and DevOps to Data Analysis and Full-Stack Development. My work has taken me through the dynamic landscape of technology, from crafting responsive web interfaces to designing scalable cloud solutions on AWS.
+Over the years, I've had the privilege of working in diverse roles, ranging from Cloud Architecture and DevOps to Data Analysis and Full-Stack Development. My work has taken me through the dynamic landscape of technology, from crafting responsive web interfaces to designing scalable cloud solutions on AWS and GCP.
 
-My approach to tech is not just about writing code; it's about solving real-world challenges. I thrive on the satisfaction of creating systems that empower businesses, enhance user experiences, and drive data-driven decision-making.
+My approach to tech is not just about writing code but solving real-world challenges. I thrive on the satisfaction of creating systems that empower businesses, enhance user experiences, and drive data-driven decision-making.
 
 ## What I Do
 
