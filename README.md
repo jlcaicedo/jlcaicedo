@@ -58,5 +58,6 @@ I'm always seeking to learn new technologies and enhance my skills. My goal is t
 - [Instagram](https://www.instagram.com/SoyJoseCaicedo/)
 - [LinkedIn](https://linkedin.com/in/jlcaicedo/)
 - [Medium](https://medium.com/subscribe/@soyjosecaicedo)
+- [dev.to](https://dev.to/soyjosecaicedo)
 
 Let's together build the future of cloud technology! 🚀
