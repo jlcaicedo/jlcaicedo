@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Useful Links 💙
 
 - [Blog](https://josecaicedo.co/)
-- [Patreon](https://www.patreon.com/jlcaicedo)
+- [Patreon](https://www.patreon.com/soyjosecaicedo)
 - [GitHub](https://github.com/jlcaicedo)
 - [YouTube](https://www.youtube.com/channel/UCX5w6KTXJAv219CrbmXb5_Q)
 - [Twitter](https://twitter.com/SoyJoseCaicedo)
