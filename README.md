@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - [Twitter](https://twitter.com/SoyJoseCaicedo)
 - [Instagram](https://www.instagram.com/SoyJoseCaicedo/)
 - [LinkedIn](https://linkedin.com/in/jlcaicedo/)
-- [Medium]([https://linkedin.com/in/jlcaicedo/](https://medium.com/subscribe/@soyjosecaicedo)
+- [Medium](https://medium.com/subscribe/@soyjosecaicedo)
