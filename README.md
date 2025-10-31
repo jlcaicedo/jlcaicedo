@@ -1,72 +1,53 @@
-# Hello! 👋
+# Hello, I'm José Caicedo 👋
 
-## About Me
+## 🚀 About Me
 
-I'm José Caicedo, a passionate software developer and technology enthusiast. With over a decade of experience in the ever-evolving tech industry, I'm excited about crafting elegant solutions for complex problems.
+I'm a **Software Engineer and Cloud Developer** passionate about building scalable systems, secure architectures, and clean user experiences.  
+Over the past decade, I’ve worked across multiple layers of technology — from backend automation and DevOps pipelines to full-stack and iOS app development.
 
-I embarked on my tech journey with a strong mathematics and computer science foundation. This academic background has honed my problem-solving skills and instilled a deep appreciation for the elegance of code.
+Currently, I’m studying **Software Engineering at Miami Dade College** and expanding my expertise in **iOS development through the Apple / Miami Codes initiative**, focusing on **Swift, SwiftUI, and mobile automation**.
 
-Over the years, I've had the privilege of working in diverse roles, ranging from Cloud Architecture and DevOps to Data Analysis and Full-Stack Development. My work has taken me through the dynamic landscape of technology, from crafting responsive web interfaces to designing scalable cloud solutions on AWS and GCP.
+My professional background blends **software engineering, cloud infrastructure, and DevSecOps**, allowing me to bridge development and operations while keeping performance, security, and scalability in mind.
 
-My approach to tech is not just about writing code but solving real-world challenges. I thrive on the satisfaction of creating systems that empower businesses, enhance user experiences, and drive data-driven decision-making.
+---
 
-## What I Do
+## 💡 What I Build
 
-### Cloud Architecture ☁️
+### **Software & Cloud Engineering**
+- Design and deploy scalable applications on **Google Cloud** and **AWS**.
+- Automate workflows using **Python**, **Go**, and **CI/CD pipelines** with **GitHub Actions** and **Azure DevOps**.
+- Implement **IAM**, encryption, and compliance-first practices for secure environments.
 
-I design and develop scalable cloud solutions using AWS. As a Cloud Architect, I work on:
+### **Full-Stack & API Development**
+- Backend: **FastAPI**, **Node.js**, and **Go (net/http)** for REST APIs and microservices.  
+- Frontend: **ReactJS** and **SwiftUI**, focused on accessibility and performance.  
+- Database: **Firestore**, **MongoDB**, **SQLite** — optimized for cloud-native workloads.
 
-- **Cloud Deployment**: Creating and managing highly available and secure cloud architectures.
-- **Cost Optimization**: Maximizing operational efficiency and reducing costs in AWS environments.
-- **Data Security**: Implementing robust security strategies to safeguard sensitive information.
+### **iOS Development**
+- Building modern mobile apps with **SwiftUI** and **Xcode**, integrating **Firebase Auth**, **real-time data**, and **AI-based features**.
+- Current project: [**My Appointment**](https://myappointment.dev) — a SaaS platform for independent professionals to manage bookings, powered by cloud automation and iOS integration.
 
-### DevOps 🚀
+---
 
-A DevOps Specialist, I implement DevOps and CI/CD practices to accelerate software delivery. My responsibilities include:
+## 🧠 Always Learning
 
-- **Automation**: Developing automation workflows to streamline processes.
-- **Infrastructure Management**: Managing and scaling cloud infrastructures for optimal performance.
-- **Security and Compliance**: Ensuring deployments meet the highest security and compliance standards.
+Continuous learning is core to how I grow.  
+I’m currently deepening my expertise in:
+- Cloud-native development (Kubernetes, GCP AI APIs)  
+- Secure automation and infrastructure as code  
+- iOS system design and app performance optimization  
 
-### Data Analyst 📊
+---
 
-I explore and analyze data to make informed decisions. My focus includes:
+## 🌐 Connect With Me
 
-- **Data Visualization**: Creating effective visualizations to communicate key insights.
-- **Machine Learning**: Applying machine learning techniques to uncover patterns in data.
-- **Process Optimization**: Identifying improvement opportunities based on data and metrics.
+- **[Portfolio](https://josecaicedo.co)** – Explore my projects and technical writings.  
+- **[GitHub](https://github.com/jlcaicedo)** – Open-source contributions and ongoing work.  
+- **[LinkedIn](https://linkedin.com/in/jlcaicedo)** – Professional profile and collaborations.  
+- **[YouTube](https://www.youtube.com/channel/UCX5w6KTXJAv219CrbmXb5_Q)** – Tutorials, tech talks, and coding sessions.  
+- **[Medium](https://medium.com/@soyjosecaicedo)** – Articles on development, cloud, and automation.  
+- **[Twitter](https://twitter.com/SoyJoseCaicedo)** – Real-time thoughts on tech and innovation.  
 
-### Full-Stack Development 💻
+---
 
-As a Full-Stack Developer, I build efficient and engaging web applications. My expertise spans:
-
-- **Front-End**: Developing responsive user interfaces using technologies like ReactJS and AngularJS.
-- **Back-End**: Creating robust services in Node.js, PHP, and Firebase.
-- **Database**: Handling MySQL and Firebase Realtime Database.
-
-## Continuous Learning
-
-I'm always seeking to learn new technologies and enhance my skills. My goal is to collaborate on innovative projects and continue growing in the tech world.
-
-## Connect with Me 🚀
-
-- **[Technical Blog](https://josecaicedo.co/):** Dive into the world of technology with in-depth articles, tutorials, and insights on my technical blog. Let's explore innovative solutions together!
-
-- **[Patreon](https://www.patreon.com/soyjosecaicedo):** Join my Patreon community and get exclusive access to behind-the-scenes content, tech discussions, and early peeks into upcoming projects. Your support fuels the tech journey!
-
-- **[GitHub](https://github.com/jlcaicedo):** Explore my GitHub repositories, where I craft and share code for various projects. Collaborate, fork, or contribute—it's a hub for open-source innovation.
-
-- **[YouTube Channel](https://www.youtube.com/channel/UCX5w6KTXJAv219CrbmXb5_Q):** Join me on YouTube for tech tutorials, coding adventures, and insights into the world of software development. Let's learn and code together!
-
-- **[Twitter](https://twitter.com/SoyJoseCaicedo):** Connect with me on Twitter for real-time tech updates, industry trends, and engaging discussions. Let's tweet our way through the techverse!
-
-- **[Instagram](https://www.instagram.com/SoyJoseCaicedo/):** Follow my tech-inspired journey on Instagram, where I share snapshots of innovation, coding marathons, and a sprinkle of creativity. Let's explore tech from a different angle!
-
-- **[LinkedIn](https://linkedin.com/in/jlcaicedo/):** Network with me on LinkedIn to discover professional insights, industry connections, and opportunities in the tech landscape. Let's grow together in the digital realm!
-
-- **[Medium](https://medium.com/subscribe/@soyjosecaicedo):** Join me on Medium for thought-provoking tech articles, deep dives into development, and explorations of the digital world. Let's unravel tech's mysteries!
-
-- **[dev.to](https://dev.to/soyjosecaicedo):** Find me on dev.to, where I share developer stories, insights, and code journeys. Let's embark on coding adventures in the dev.to community!
-
-
-Let's together build the future of cloud technology!
+### ✨ Let’s build secure, scalable, and meaningful software.
